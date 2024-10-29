@@ -1,0 +1,18 @@
+.aiscribe-sidebar {
+	padding: 20px;
+	}
+
+@media (min-width: 782px) {
+	body.aiscribe-sidebar-open .edit-post-layout.is-sidebar-opened .edit-post-plugin-sidebar__sidebar-layout,
+	body.aiscribe-sidebar-open .edit-post-layout.is-sidebar-opened .edit-post-sidebar {
+		width: 350px;
+		}
+	}
+
+@media (min-width: 1080px) {
+	body.aiscribe-sidebar-open .edit-post-layout.is-sidebar-opened .edit-post-plugin-sidebar__sidebar-layout,
+	body.aiscribe-sidebar-open .edit-post-layout.is-sidebar-opened .edit-post-sidebar {
+		width: 500px;
+		}
+	}
+
